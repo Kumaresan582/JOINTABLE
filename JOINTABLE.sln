@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JOINTABLE", "JOINTABLE\JOINTABLE.csproj", "{C3624640-72A0-4829-8FA1-61940A9457D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbModel", "DbModel\DbModel.csproj", "{E514B84A-74C1-4C89-9E01-29707C4341CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3624640-72A0-4829-8FA1-61940A9457D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3624640-72A0-4829-8FA1-61940A9457D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3624640-72A0-4829-8FA1-61940A9457D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3624640-72A0-4829-8FA1-61940A9457D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E514B84A-74C1-4C89-9E01-29707C4341CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E514B84A-74C1-4C89-9E01-29707C4341CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E514B84A-74C1-4C89-9E01-29707C4341CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E514B84A-74C1-4C89-9E01-29707C4341CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8540959-074F-4930-A23D-F7B59EBA012F}
+	EndGlobalSection
+EndGlobal
